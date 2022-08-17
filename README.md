@@ -1,8 +1,10 @@
 # Language-Translator
 Project: Language Translator
 
-This project is assigned to me, during a internship with Exposys Data Labs
+Project Assigned During an internship with Exposys Data Labs (online)
+Exposys Data Labs : http://exposysdata.com/
 
 Library used :
   Front-end: Tkinter python
-  Back-end : googletrans python 3.
+  Back-end : python
+  Translation Library : googletrans python 3.9
