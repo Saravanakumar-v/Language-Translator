@@ -5,7 +5,7 @@ Project Assigned During an internship with Exposys Data Labs (online)
 
 Exposys Data Labs : http://exposysdata.com/
 
-Library used :
+Tools used : 
   
   Front-end: Tkinter python
   
