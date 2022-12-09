@@ -1,6 +1,7 @@
 # Language-Translator
-### Project: Language Translator
+Translate from English to any Language using Python googletrans library
 
+## Development:
 To run the application, install neccessary library from requirements.txt
 ```
 pip install requirements.txt
@@ -9,10 +10,10 @@ run the application
 ```
 python main.py
 ```
-### Updates:
-⚒
+## Updates:
+On progress ⚒
 
-### Tech stack: 
+## Tech stack: 
   
    &nbsp;&nbsp;&nbsp;&nbsp;Front-end: Tkinter python
   
