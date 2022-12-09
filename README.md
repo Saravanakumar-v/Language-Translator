@@ -1,15 +1,19 @@
 # Language-Translator
-Project: Language Translator
+### Project: Language Translator
 
-Project Assigned During an internship with Exposys Data Labs (online)
+To run the application, install neccessary library from requirements.txt
+```
+pip install requirements.txt
+```
+run the application
+```
+python main.py
+```
 
-Exposys Data Labs : http://exposysdata.com/
-
-
-Tools used : 
+### Tech stack: 
   
-  Front-end: Tkinter python
+   &nbsp;&nbsp;Front-end: Tkinter python
   
-  Back-end : python
-  
-  Translation Library : googletrans python 3.9
+   &nbsp;&nbsp;Back-end : python
+ 
+   &nbsp;&nbsp;Translation Library : googletrans python 3.9
