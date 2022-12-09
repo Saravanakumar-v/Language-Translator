@@ -9,11 +9,15 @@ run the application
 ```
 python main.py
 ```
+### Updates:
+⚒
 
 ### Tech stack: 
   
-   &nbsp;&nbsp;Front-end: Tkinter python
+   &nbsp;&nbsp;&nbsp;&nbsp;Front-end: Tkinter python
   
-   &nbsp;&nbsp;Back-end : python
+   &nbsp;&nbsp;&nbsp;&nbsp;Back-end: python
  
-   &nbsp;&nbsp;Translation Library : googletrans python 3.9
+   &nbsp;&nbsp;&nbsp;&nbsp;Translation Library: googletrans python 3.9
+   
+   
